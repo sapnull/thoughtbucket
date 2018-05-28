@@ -10,3 +10,9 @@ _Cloud Native_
 - [X] helm
 - [X] dashboard
 - [X] harbor
+
+## CI/CD Pipelining
+(Continuos Integration / Continuous Delivery)
+
+- [X] git (GitHub or Gitlab)
+- [X] jenkins
