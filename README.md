@@ -16,3 +16,5 @@ _Cloud Native_
 
 - [X] git (GitHub or Gitlab)
 - [X] jenkins
+- [X] vagrant (local laptop/desktop)
+- [] terraform (dev/test, qa/staging/pre-prod, & prod)
